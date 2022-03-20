@@ -1,6 +1,5 @@
 
-# Welcome to JohnnyRacer's GitHub profile!
-##	🍕	🍕	🍕
+# Welcome to JohnnyRacer's GitHub profile! 🍕
 ### This is my main profile where I keep my public projects
 #### Reach out to me [@johnnyracers](https://t.me/johnnyracers) on Telegram 📻
 Languages that I'm familiar with:
